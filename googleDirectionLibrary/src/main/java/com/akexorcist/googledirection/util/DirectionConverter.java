@@ -21,10 +21,10 @@ package com.akexorcist.googledirection.util;
 import android.content.Context;
 import android.util.DisplayMetrics;
 
-import androidx.annotation.ColorInt;
-import androidx.annotation.Dimension;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
+import android.support.annotation.ColorInt;
+import android.support.annotation.Dimension;
+import android.support.annotation.NonNull;
+import android.support.annotation.Nullable;
 
 import com.akexorcist.googledirection.model.Step;
 import com.google.android.gms.maps.model.Cap;
